@@ -13,7 +13,6 @@ function App() {
     <div className="App">
         <BrowserRouter>
           <Notification>
-            <ReviewForm />
               <Routes>
                 <Route path="/login" element={<Login />}/>
                 <Route path="/signup" element={<SignUp />}/>
