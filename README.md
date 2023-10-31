@@ -1,22 +1,14 @@
 # Healthcare app
 <b>This is a "Healthcare" app.</b>
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/60a63051-52d5-450e-8557-5b91c7147401" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/5c0a2f9d-e597-4979-9e7d-eec06df7abb9" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/4ab77655-6541-44b3-93af-8c7af74f83e3" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/a06311b3-5042-433a-b075-cc50b04fa395" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/190e5be6-ed7b-4069-af14-b19470f24852" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/3fb3c28e-b276-4e3c-8108-bcf6de20314c" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/792e5399-7fc5-4480-9d97-6bc6a6545c6c" alt="" width="480" height="240">
-<br><br>
-<img src="https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/7bc09476-2d9a-4f7a-8011-85123ff7011f" alt="" width="480" height="240">
-<br><br>
+![1](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/60a63051-52d5-450e-8557-5b91c7147401)
+![2](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/5c0a2f9d-e597-4979-9e7d-eec06df7abb9)
+![3](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/4ab77655-6541-44b3-93af-8c7af74f83e3)
+![5](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/a06311b3-5042-433a-b075-cc50b04fa395)
+![6](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/190e5be6-ed7b-4069-af14-b19470f24852)
+![7](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/3fb3c28e-b276-4e3c-8108-bcf6de20314c)
+![8](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/792e5399-7fc5-4480-9d97-6bc6a6545c6c)
+![4](https://github.com/gunayshakhmuradova/Healthcare-App/assets/126316477/7bc09476-2d9a-4f7a-8011-85123ff7011f)
+
 
 # Getting Started with Create React App
 
